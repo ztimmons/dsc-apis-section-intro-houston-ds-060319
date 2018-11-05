@@ -17,9 +17,14 @@ One of the many ways you'll find yourself accessing data as a professional data 
 
 We start off the section by providing a conceptual introduction to various kinds of APIs and some of the reasons that businesses create them.
 
+### The Client Server Model
+
+We then look at the basic model of "clients" and "servers" to provide a framework for thinking about how your "client" retrieves information from an API "server".
+
 ### The Request/Response Cycle
 
 Next we look at the fundamental mechanism by which web based APIs are typically accessed - sending a HTTP request and then processing the response provided by the server. We also get a little experience of working with http requests using the Python `.get()` method within the Requests package. We also get some hands on experience retrieving information from NASA using [Open Notify](http://open-notify.org/).
+
 
 ### APIs and OAuth
 
