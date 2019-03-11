@@ -30,9 +30,9 @@ Next we look at the fundamental mechanism by which web based APIs are typically 
 
 Usually, access to a given API is limited to avoid abuse. One of the most common mechanisms for identifying your API requests to make sure they fit within acceptable usage guidelines is OAuth - Open Authorization - a standard for authorizing clients across web requests. In this section we provide an overview of what OAuth is and how it works by looking at how it is implemented by Dropbox.
 
-### Working with the Twitter API
+### Working with the Yelp API
 
-Next we get some practice working with a real API, retrieving information from the Twitter API.
+Next we get some practice working with a real API, retrieving information from the Yelp API.
 
 ### Building a GIS with Yelp and Folium
 
