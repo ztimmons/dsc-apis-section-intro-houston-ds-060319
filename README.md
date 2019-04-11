@@ -42,6 +42,3 @@ Finally, we wrap up the section by building out a Geographical Information Syste
 ## Summary
 
 Many companies provide access to their data via an API, so being able to connect to and work with data provided via an API is a critical skill as a professional data scientist.
-
-
-
