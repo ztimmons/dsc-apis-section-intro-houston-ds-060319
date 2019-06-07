@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 12 and why they'll be important to you as a data scientist.
+In this section, you'll be learning about APIs and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
